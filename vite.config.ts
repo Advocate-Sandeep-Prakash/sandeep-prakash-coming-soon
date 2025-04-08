@@ -8,5 +8,5 @@ export default defineConfig({
       tailwindcss(),
       react()
   ],
-  base: '/sandeep-prakash-coming-soon/',
+  base: './', // Use a relative path for custom domains,
 })
